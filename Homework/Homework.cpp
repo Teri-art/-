@@ -4,7 +4,7 @@
 
 using namespace std;
 
-/*enum Month {
+enum Month {
     January = 1,
     February,
     March,
@@ -21,10 +21,6 @@ using namespace std;
 
 int main() {
     int i;
-    const string months[] = {
-        "", "January", "February", "March", "April", "May", "June",
-        "July", "August", "September", "October", "November", "December"
-    };
 
     while (true) {
         cout << "Enter the month number: ";
@@ -35,15 +31,30 @@ int main() {
             break;
         }
 
-        if (i >= January && i <= December)
-            cout << months[i] << endl;
-        else
+        Month month = static_cast<Month>(i);
+
+        switch (month) {
+        case January:   cout << "January" << endl; break;
+        case February:  cout << "February" << endl; break;
+        case March:     cout << "March" << endl; break;
+        case April:     cout << "April" << endl; break;
+        case May:       cout << "May" << endl; break;
+        case June:      cout << "June" << endl; break;
+        case July:      cout << "July" << endl; break;
+        case August:    cout << "August" << endl; break;
+        case September: cout << "September" << endl; break;
+        case October:   cout << "October" << endl; break;
+        case November:  cout << "November" << endl; break;
+        case December:  cout << "December" << endl; break;
+        default:
             cout << "Try again!" << endl;
+            break;
+        }
     }
 
     return 0;
 }
-*/
+
 //2
 
 /*struct Bank {
@@ -80,7 +91,7 @@ int main() {
 
 //3 
 
-struct Address {
+/*struct Address {
     string city;
     string street;
     int houseNumber;
@@ -139,4 +150,4 @@ int main() {
     printAddress(address2);
 
     return 0;
-}
+}*/

@@ -1,2 +1,2 @@
 ﻿  Homework.cpp
-  Homework.vcxproj -> C:\Users\Katy\Desktop\HW\Homework\x64\Debug\Homework.exe
+LINK : fatal error LNK1201: Ошибка при записи в базу данных "C:\Users\Katy\Desktop\HW\Homework\x64\Debug\Homework.pdb" программы; возможно, не хватает места на диске, недопустимый путь или недостаточно прав
