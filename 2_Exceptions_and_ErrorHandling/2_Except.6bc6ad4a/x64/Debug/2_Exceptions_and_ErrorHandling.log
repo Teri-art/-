@@ -1,0 +1,5 @@
+﻿  2_Exceptions_and_ErrorHandling.cpp
+C:\Users\Katy\Desktop\HW\2_Exceptions_and_ErrorHandling\2_Exceptions_and_ErrorHandling.cpp(145,5): error C2084: функция "int main(void)" уже имеет текст реализации
+      C:\Users\Katy\Desktop\HW\2_Exceptions_and_ErrorHandling\2_Exceptions_and_ErrorHandling.cpp(126,5):
+      см. предыдущее определение "main"
+  

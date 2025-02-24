@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Katy\\Desktop\\HW\\operator overloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{302EED20-4805-439C-9EAB-C6331AF67FC4}|operator overloading.vcxproj|C:\\Users\\Katy\\Desktop\\HW\\operator overloading\\operator overloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{302EED20-4805-439C-9EAB-C6331AF67FC4}|operator overloading.vcxproj|solutionrelative:operator overloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302EED20-4805-439C-9EAB-C6331AF67FC4}|operator overloading.vcxproj|C:\\Users\\Katy\\Desktop\\HW\\operator overloading\\task_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{302EED20-4805-439C-9EAB-C6331AF67FC4}|operator overloading.vcxproj|solutionrelative:task_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Katy\\Desktop\\HW\\operator overloading\\task_2.cpp",
+              "RelativeDocumentMoniker": "task_2.cpp",
+              "ToolTip": "C:\\Users\\Katy\\Desktop\\HW\\operator overloading\\task_2.cpp",
+              "RelativeToolTip": "task_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-24T19:59:31.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "operator overloading.cpp",
+              "DocumentMoniker": "C:\\Users\\Katy\\Desktop\\HW\\operator overloading\\operator overloading.cpp",
+              "RelativeDocumentMoniker": "operator overloading.cpp",
+              "ToolTip": "C:\\Users\\Katy\\Desktop\\HW\\operator overloading\\operator overloading.cpp",
+              "RelativeToolTip": "operator overloading.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-24T19:13:47.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
